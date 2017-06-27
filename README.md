@@ -1,2 +1,2 @@
 # JavaDocs
-Java Documentation
+Java Training Sessions
